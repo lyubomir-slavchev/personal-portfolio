@@ -1,3 +1,9 @@
+#You can check the portfolio on vercel here:
+https://personal-portfolio-uq4r.vercel.app/
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
