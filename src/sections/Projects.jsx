@@ -6,7 +6,7 @@ const projects = [
     title: "BL-mebel",
     description:
       "Built and deployed a complete e-commerce platform for a custom furniture brand as a solo developer. Developed a high-performance React (Vite) frontend and implemented a headless Strapi CMS for dynamic product and content management. Created custom Strapi plugins to import and transform product data from CSV files, automating catalog management. Integrated the Econt delivery API for shipping workflows, implemented Google Analytics and Meta Pixel for user tracking and marketing insights, and prepared Stripe payment architecture for future activation. Designed the system to be scalable and extensible while leveraging AI tools to accelerate development and debugging.",
-    image: "./public/blmebel.png",
+    image: "/blmebel.png",
     tags: [
       "React",
       "JavaScript",
@@ -24,7 +24,7 @@ const projects = [
     title: "Movie Library Web App",
     description:
       "Developed a Movie Library web application using React and Vite, consuming a public movie database API to fetch and display dynamic movie data. Built a responsive, component-based interface using Material UI (MUI) for consistent design and improved user experience. Implemented React hooks, state management, API data handling, and dynamic routing to manage movie listings and detailed views. Structured the application for scalability and maintainability while ensuring clean UI and efficient data rendering.",
-    image: "/public/movie-library.png",
+    image: "/movie-library.png",
     tags: ["React", "Vite", "Material UI", "API Integration"],
     link: "https://movie-library-p634.vercel.app/",
     github: "https://github.com/lyubomir-slavchev/Movie-Library",
@@ -33,7 +33,7 @@ const projects = [
     title: "E-Commerce React Application",
     description:
       "Developed a single-page e-commerce application using React and Vite. Implemented reusable components, product listings, and shopping cart functionality with global state management using the Context API. Built authentication flows (signup/login) with session persistence using localStorage. Implemented routing with React Router, including dynamic product pages, and created cart features such as quantity updates, item removal, and checkout flow. Applied React hooks, custom hooks, and conditional rendering to manage application state and user interactions.",
-    image: "/public/ecommerse-website.png",
+    image: "/ecommerse-website.png",
     tags: ["React", "Vite", "JavaScript", "React Router"],
     link: "https://ecommerse-website-react-project.vercel.app/",
     github:
@@ -43,7 +43,7 @@ const projects = [
     title: "Music Player",
     description:
       "Developed a React-based music player that provides seamless audio playback with intuitive controls for play, pause, and track switching. Integrated dynamic state handling to manage the current track, playback status, and progress updates in real time. Designed a clean, component-driven interface to enhance user experience and ensure maintainable code structure. This project demonstrates proficiency in working with browser media APIs, managing complex UI state, and building interactive front-end applications.",
-    image: "/public/musicplayer.png",
+    image: "/musicplayer.png",
     tags: ["React", "JavaScript"],
     link: "#",
     github: "https://github.com/lyubomir-slavchev/Music-Player",
@@ -52,7 +52,7 @@ const projects = [
     title: "Memory Card Game",
     description:
       "Built a browser-based memory game with React that challenges users to select unique cards without repeating choices. Implemented randomized card rendering, real-time score tracking, and loss/reset conditions to create a smooth gameplay loop. Structured the application using reusable components and managed application state efficiently with React Hooks. This project demonstrates strong understanding of front-end logic, user interaction handling, and creating clean, maintainable UI code.",
-    image: "/public/memory-game.png",
+    image: "/memory-game.png",
     tags: ["React", "JavaScript"],
     link: "#",
     github: "https://github.com/lyubomir-slavchev/React-Memory-Card-Game",
